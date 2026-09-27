@@ -1,3 +1,4 @@
+// Core validation and authentication logic for PROG5121 Part 1
 import java.util.regex.Pattern;
 
 public class Login {
