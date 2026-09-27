@@ -1,3 +1,4 @@
+// Main console application entry point and user workflow
 import java.util.Scanner;
 
 public class Main {
